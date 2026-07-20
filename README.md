@@ -32,6 +32,8 @@ This open-source tracking directory is configured to support peer-reviewed repli
 *   `/src/main.py`: Interactive Python state-variable parser mapping the dynamic mass flow rates and vaporization plateaus of the Staelens Cycle thermal cascade.
 *   `/docs/NIAC_Phase_I_Brief.pdf`: Upgraded 3-Page Step-1 Proposal brief aligned with the August NASA Space Technology Mission Directorate solicitation window.
 *   `/cad/geometry_1_1000.scad`: Scalable, parametric OpenSCAD 3D wireframe mesh modeling the geometric coordinates of the hub, track, and 24 structural spokes.
+*   `NASA NTRS Entry`: Rudolph, L. K., & Pawlik, E. V. (1979). "The MPD thruster development program." Jet Propulsion Laboratory, California Institute of Technology. AIAA Paper 79-2050. NASA Technical Reports Server (NTRS) Document ID: 19800029132.
+
 
 ---
 
